@@ -1,0 +1,17 @@
+
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/com/jlhd/util/DingUser.class
+target/classes/com/jlhd/util/MessageRobertUtil.class
+target/classes/com/jlhd/util/MessageSender.class
+target/classes/com/jlhd/util/TestAuth.class
+target/classes/com/jlhd/util/TestDepartment.class
+target/classes/META-INF/maven/com.jlhd/TestDingDing/pom.xml
+target/classes/META-INF/maven/com.jlhd/TestDingDing/pom.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/com/jlhd/util/TestUser.class
+target/classes/com/jlhd/util/TestRole.class
+target/classes/com/jlhd/util/TestMessage.class
+target/classes/com/jlhd/util/TestLogin.class
